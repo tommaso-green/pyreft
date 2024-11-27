@@ -18,7 +18,7 @@ scikit-learn
 jupyter
 # Kaggle notebook setup.
 fsspec>=2024.2.0
-ydata-profiling>=4.7.0
+# ydata-profiling>=4.7.0
 seaborn==0.12.2
 # Colab notebook setup.
 gcsfs>=2024.2.0
